@@ -4,6 +4,8 @@ import com.badlogic.gdx.scenes.scene2d.Actor;
 
 /**
  * Created by bs on 2016.09.23..
+ * THIS IS AMAZING
+ * WOW
  */
 
 public class BSActor extends Actor {
